@@ -1,0 +1,1 @@
+Aplikasi Dekstop membantu memudahkan kasir dalam percetakan struk belanja dan mencetak laporan transaksi.
